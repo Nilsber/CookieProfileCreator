@@ -12,7 +12,16 @@ After you installed Python, open a Command Prompt and install all necessary libr
 
 Because it uses selenium as a library, and the script creates an empty Chromium session, you will probably need to also install the Chromium browser.
 
-After you're done with all of this, you can install the `script.py` file and create a new folder for it, where the script will be and all of the data it will have saved for you that can be edited.
+After you're done with all of this, you can download the files: `script.py` and `run.bat` and create a new folder for it, where the stuff will be and all of the data it will have saved for you that can be edited.
+How it works: You need to edit the run.bat file and correct the directory for the `script.py` file
+
+This is how your folder should look:
+"Roblox Profile Manager"
+  "run.bat" (in the 2nd line, there is python "D:\Documents\Roblox Account Profiles\script.py", you need to correct the directory for where your script.py is)
+  "script.py"
+  "roblox_game_ids.json" (if you had saved a game before)
+  "roblox_profiles.json" (if you had saved an account before)
+
 Because there are no buttons to rename or remove accounts/games, follow these instructions on how to do it manually:
 
 ACCOUNT:
