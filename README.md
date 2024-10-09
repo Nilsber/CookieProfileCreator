@@ -24,7 +24,6 @@ This is how your folder should look:
 
 Because there are no buttons to rename or remove accounts/games, follow these instructions on how to do it manually:
 
-ACCOUNT:
 1. Open a `.json` file
 2. You will see a json table with your account/game name and the cookie/id
 This is how json tables are formatted for this and how you will be able to edit it
