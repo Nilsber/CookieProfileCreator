@@ -9,3 +9,5 @@ After you installed Python, open a Command Prompt and install all necessary libr
 `pip install tkinter`
 `pip install webdriver-manager`
 `pip install requests`
+
+Because it uses selenium as a library, and the script creates an empty Chromium session, you will probably need to also install the Chromium browser.
