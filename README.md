@@ -22,6 +22,8 @@ This is how your folder should look:
   "roblox_game_ids.json" (if you had saved a game before)
   "roblox_profiles.json" (if you had saved an account before)
 
+Alternatively, you can just download the DoItForMe.rar file and put the folder in it anywhere! So simple.
+
 Because there are no buttons to rename or remove accounts/games, follow these instructions on how to do it manually:
 
 1. Open a `.json` file
