@@ -11,3 +11,16 @@ After you installed Python, open a Command Prompt and install all necessary libr
 `pip install requests`
 
 Because it uses selenium as a library, and the script creates an empty Chromium session, you will probably need to also install the Chromium browser.
+
+After you're done with all of this, you can install the `script.py` file and create a new folder for it, where the script will be and all of the data it will have saved for you that can be edited.
+Because there are no buttons to rename or remove accounts/games, follow these instructions on how to do it manually:
+
+ACCOUNT:
+1. Open a `.json` file
+2. You will see a json table with your account/game name and the cookie/id
+This is how json tables are formatted for this and how you will be able to edit it
+{
+  "NAME": "COOKIE OR ID GOES HERE", <- this comma is necessary, you need to seperate each profile with a comma
+  "NAME2": "COOKIE OR ID GOES HERE"
+}
+To rename, it's straightforward! - you just have to edit the account name, and you can also change your account cookie.
